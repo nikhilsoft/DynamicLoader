@@ -1,0 +1,4 @@
+export default {
+    "FirstComponent": ["FirstComponentA", "FirstComponentB"],
+    "SecondComponent": ["SecondComponentA", "SecondComponentB"]
+}
